@@ -7,6 +7,7 @@ AI+MachineLearning+DeepLearning+Python
 ## Python
 - 官方Python中文文档(https://docs.python.org/zh-cn/3.7/)
 - 廖雪峰Python教程(https://www.liaoxuefeng.com/wiki/1016959663602400)
+- Python视频教程_600集Python从入门到精通教程(https://www.bilibili.com/video/BV1ex411x7Em?from=search&seid=9581419907489359870)
 
 ## Numpy
 - Numpy中文(https://www.numpy.org.cn/)
