@@ -9,14 +9,11 @@ AI+MachineLearning+DeepLearning+Python
 - 廖雪峰Python教程(https://www.liaoxuefeng.com/wiki/1016959663602400)
 - Python视频教程_600集Python从入门到精通教程(https://www.bilibili.com/video/BV1ex411x7Em?from=search&seid=9581419907489359870)
 
-## Numpy
+## Numpy/Pandas/Matplotlib
 - Numpy中文(https://www.numpy.org.cn/)
-
-## Pandas
 - Pandas中文(https://www.pypandas.cn/)
-
-## Matplotlib
 - Matplotlib中文(https://www.matplotlib.org.cn/)
+- Python教程4天快速入手Python数据挖掘(https://www.bilibili.com/video/BV1xt411v7z9?p=1)
 
 ## practicalAI
 - practicalAI(https://github.com/madewithml/lessons)
