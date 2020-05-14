@@ -8,6 +8,7 @@ AI+MachineLearning+DeepLearning+Python
 - 官方Python中文文档(https://docs.python.org/zh-cn/3.7/)
 - 廖雪峰Python教程(https://www.liaoxuefeng.com/wiki/1016959663602400)
 - Python视频教程_600集Python从入门到精通教程(https://www.bilibili.com/video/BV1ex411x7Em?from=search&seid=9581419907489359870)
+- Python编程基础(HCIA-AI 华为认证人工智能工程师在线课程的前置课程)(https://ilearningx.huawei.com/portal/courses/course-v1:HuaweiX+EBGTC00000531+Self-paced/about)
 
 ## Numpy/Pandas/Matplotlib
 - Numpy中文(https://www.numpy.org.cn/)
@@ -17,6 +18,7 @@ AI+MachineLearning+DeepLearning+Python
 
 ## practicalAI
 - practicalAI(https://github.com/madewithml/lessons)
+- AI 数学基础(HCIA-AI 华为认证人工智能工程师在线课程的前置课程)(https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000535+microcourse/about?blockID=c29e8fc9019646349bc0c854ee87f74e)
 
 ## MachineLearning
 - 【CS229机器学习】斯坦福：吴恩达教授机器学习最新课程(https://www.bilibili.com/video/BV16J411t71N)
@@ -26,7 +28,8 @@ AI+MachineLearning+DeepLearning+Python
 ## DeepLearning
 - 【CS230深度学习】斯坦福：深度学习课程中英文字幕 by Andrew Ng(https://www.bilibili.com/video/BV1g54y1R7xY)
 - 【吴恩达】deeplearning.ai(https://github.com/stormstone/deeplearning.ai)
-- 【台湾大学】李宏毅2020机器学习深度学习(完整版)国语(https://www.bilibili.com/video/BV1JE411g7XF)
+- 【台湾大学】李宏毅2020机器学习深度学习(完整版)国语(https://www.bilibili.com/video/BV1JE411g7XF) 
+- HCIA-AI 华为认证人工智能工程师在线课程V3.0(https://ilearningx.huawei.com/portal/courses/course-v1:HuaweiX+EBGTC00000530+Self-paced/about)
 - Dive-into-DL-TensorFlow2.0(https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 - Dive-into-DL-PyTorch(https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 - Dive-into-DL-MXNet-Gluon(https://github.com/d2l-ai/d2l-zh)
